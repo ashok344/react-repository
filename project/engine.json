@@ -1,0 +1,65 @@
+{
+ "result": {
+   "status": "Success",
+   "data": {
+     "response": [
+       {
+         "image": "https://www.discoverlosangeles.com/sites/default/files/styles/hero/public/images/2019-01/5496111021_3c1e100261_o.jpg?itok=tmDCa5Es",
+         "temperature": "35",
+         "humidity": "77%",
+         "pressure": "758 mm",
+         "weatherCondition": "Rainy",
+         "dayId": 1572757288
+       },
+       {
+         "image": "https://www.google.com/search?q=cloudy+sky&rlz=1C1CHBF_enIN817IN817&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiduauE7NnlAhUJfSsKHS-UCDcQ_AUIEigB&biw=1366&bih=657#imgrc=uxjaodmRbgvXIM:",
+         "temperature": "30",
+         "humidity": "75%",
+         "pressure": "700 mm",
+         "weatherCondition": "cloudy",
+         "dayId": 1572843688
+       },
+       {
+         "image": "https://www.discoverlosangeles.com/sites/default/files/styles/hero/public/images/2019-01/5496111021_3c1e100261_o.jpg?itok=tmDCa5Es",
+         "temperature": "35",
+         "humidity": "77%",
+         "pressure": "758 mm",
+         "weatherCondition": "Rainy",
+         "dayId": 1572930088
+       },
+       {
+         "image": "https://www.discoverlosangeles.com/sites/default/files/styles/hero/public/images/2019-01/5496111021_3c1e100261_o.jpg?itok=tmDCa5Es",
+         "temperature": "35",
+         "humidity": "77%",
+         "pressure": "758 mm",
+         "weatherCondition": "Rainy",
+         "dayId": 1573016488
+       },
+       {
+         "image": "https://www.discoverlosangeles.com/sites/default/files/styles/hero/public/images/2019-01/5496111021_3c1e100261_o.jpg?itok=tmDCa5Es",
+         "temperature": "35",
+         "humidity": "77%",
+         "pressure": "758 mm",
+         "weatherCondition": "Rainy",
+         "dayId": 1573102888
+       },
+       {
+         "image": "https://www.discoverlosangeles.com/sites/default/files/styles/hero/public/images/2019-01/5496111021_3c1e100261_o.jpg?itok=tmDCa5Es",
+         "temperature": "35",
+         "humidity": "77%",
+         "pressure": "758 mm",
+         "weatherCondition": "Rainy",
+         "dayId": 1573189288
+       }
+     ]
+   },
+ 
+ "error": {}
+},
+"process": {
+ "childProcess": [
+   {
+   }
+ ]
+}
+}
